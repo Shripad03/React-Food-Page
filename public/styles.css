@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.heading {
+  color: red;
+}
+.food-img {
+  height: 200px;
+  width: 300px;
+}
